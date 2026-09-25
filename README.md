@@ -21,8 +21,8 @@
 
 ## 📫 Me contacter
 
-- 🌐 Portfolio : <!-- URL de ton site -->
-- 🔐 TryHackMe : <!-- URL de ton profil THM -->
-- 🎓 Intra 42 : <!-- URL de ton profil intra -->
-- 💼 LinkedIn : <!-- URL de ton profil LinkedIn -->
+- 🌐 Portfolio : [enzotiko.netlify.app](https://enzotiko.netlify.app/)
+- 🔐 TryHackMe : [@enzoNzgm](https://tryhackme.com/p/enzoNzgm)
+- 🎓 Intra 42 : [enzuguem](https://profile-v3.intra.42.fr/users/enzuguem)
+- 💼 LinkedIn : [Enzo Nzuguem Tiko](https://www.linkedin.com/in/enzo-nzuguem-tiko-b0a230221/)
 - GitHub : [@enzoNzgm](https://github.com/enzoNzgm)
